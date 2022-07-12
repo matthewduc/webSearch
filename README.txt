@@ -1,4 +1,4 @@
-## This is the final portion of a group project that take data in .json format, create an index for faster information retrieval, and produce outputs from a script.
+This is the final portion of a group project that take data in .json format, create an index for faster information retrieval, and produce outputs from a script.
 
 indexLucene takes .json files generated from Tweepy and creates an index
 java -cp indexLucene.jar edu.ucr.cs.IR.indexLucene <json file names> <number of threads> <output name>
